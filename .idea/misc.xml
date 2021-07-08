@@ -6,6 +6,10 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18568840579710144" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.1828774062816616" />
         <entry key="app/src/main/res/layout/fragment_quran_paged.xml" value="0.1828774062816616" />
+        <entry key="app/src/main/res/layout/item_line.xml" value="0.20923913043478262" />
+        <entry key="app/src/main/res/layout/line_blank.xml" value="0.20923913043478262" />
+        <entry key="app/src/main/res/layout/line_surah_header.xml" value="0.20923913043478262" />
+        <entry key="app/src/main/res/layout/line_verse.xml" value="0.20923913043478262" />
       </map>
     </option>
   </component>
